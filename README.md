@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *First xCode*
 
-Submitted by: **Your Name Here**
+Submitted by: **Joshua Partridge**
 
-**Name of your app** is an app that... [TODO] 
+**First xCode** is an app that... Simply changes the background color
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -20,6 +20,24 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+
+Reddit:
+- Accessibility and Usability are friendly
+- Very good recommendation algorithm
+
+Retro Bowl:
+- Simple but fun IOS game
+- variety of mechanics to keep the game fun
+
+Tiktok
+- Ability to comment and interact with other users
+- Great recommendation algorithm
+- Easy UI
+
+I would like to create a retro dungeon crawler app. I think using graphics like Retro Bowl would be fun and easy and then I would implement mechanics from classic dungeon crawlers like Binding of isaac. I would want to have proceduaral dungeons and items generated. I would also include some way for players to interat with others, maybe a daily scoreboard run, or a level builder system where levels can be shared.
+
+
+
 
 ## Notes
 
